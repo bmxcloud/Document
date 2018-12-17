@@ -1,4 +1,4 @@
-# ShadowsocksR
+# V2RayNG
 
 * `系统要求：Android 4.4 及以上`
 * `设备要求：Android Phone / Tablet`
@@ -29,8 +29,6 @@
 
 ![](../../.gitbook/assets/ssr-android-12.png)
 
-
-
 {% hint style="info" %}
 客户端配置
 {% endhint %}
@@ -40,8 +38,6 @@
 ![](../../.gitbook/assets/ssr-android-15.png)
 
 滑动页面到顶部，点击右上角的纸飞机图标连接，如果是首次连接，则系统会弹出如下的提示框，请点击「确定」。
-
-
 
 ![](../../.gitbook/assets/ssr-android-14.png)
 

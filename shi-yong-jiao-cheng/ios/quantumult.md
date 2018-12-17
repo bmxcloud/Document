@@ -3,8 +3,6 @@
 * `系统要求：iOS 9 及以上`
 * `设备要求：iPhone / iPad`
 
-
-
 {% hint style="danger" %}
 此应用已在国区下架，请自行准备非国区 Apple ID 下载
 {% endhint %}

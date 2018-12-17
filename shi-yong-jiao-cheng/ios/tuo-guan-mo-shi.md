@@ -1,10 +1,8 @@
-# Surge
+# ShadowRocket
 
 * `系统要求：iOS 9 及以上`
 * `软件版本：Surge 2 / 3 Pro`
 * `设备要求：iPhone / iPad`
-
-
 
 {% hint style="danger" %}
 此应用已在国区下架，请自行准备非国区 Apple ID 下载。

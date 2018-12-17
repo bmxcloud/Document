@@ -1,7 +1,6 @@
-# Surge 3
+# BMXCloud For Mac
 
 * `系统要求：macOS 10.5 及以上`
-* `软件版本：Surge 3 for macOS`
 * `设备要求：MacBook / iMac / Mac Pro`
 
 {% hint style="info" %}

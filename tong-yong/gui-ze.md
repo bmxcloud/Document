@@ -4,8 +4,6 @@
 Surge / Shadworcoekt / Quantumult 可搭配规则使用
 {% endhint %}
 
-
-
 现已支持以下功能：
 
 * 自动代理 / 全局代理
