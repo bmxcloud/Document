@@ -18,7 +18,7 @@
 
 通过浏览器访问 Koolshare Merlin ROM 管理页面，在管理页面底部点击「软件中心」，然后点击「未安装」选项卡，然后点击「shellinabox」进行安装 SSH 网页客户端。
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 点击「已安装」选项卡中的「shellinabox」进入 SSH。
 

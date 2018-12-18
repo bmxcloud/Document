@@ -1,25 +1,20 @@
+---
+description: 我们对本客户端提供暂不提供支持，订阅功能正在在开发支持中
+---
+
 # Clash For Win
 
 * `系统要求：Windows XP 及以上（64-bit）`
-* `设备要求：Windows PC / Tablet`
+
+### 介绍
+
+`Clash For Win`是个适用于V2Ray的图形化客户端，内核Clash具有强大的路由功能，设置全部由配置文件来管理，使用难度较大。
+
+### 下载
+
+[本地下载](https://bmxcloud.cc/dl.php?type=d&id=11) \| [官方下载](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.5.8/Clash.for.Windows-0.5.8-win.zip)
 
 {% hint style="info" %}
-Clash 不兼容 SSR 协议，推荐切换为 SS 模式使用
+请等待管理员补充，如果您需要帮助请联系：@gmail.com
 {% endhint %}
-
-1. 输入 dlercloud.com 的邮箱/密码登陆
-2. 点击左侧菜单栏「General」并勾选「System Proxy」
-3. 点击左侧菜单栏「Proxies」即可切换节点或模式
-
-![](../../.gitbook/assets/2018-11-16-15.54.10.jpg)
-
-![](../../.gitbook/assets/image_2018-11-16_15-55-16.png)
-
-![](../../.gitbook/assets/jietu20181116-155623.png)
-
-{% hint style="danger" %}
-Windows 10 第一次运行会提示被阻止，点击「更多信息」 - 「仍要运行」
-{% endhint %}
-
-![](../../.gitbook/assets/2018-11-16-15.54.06.jpg)
 
