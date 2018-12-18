@@ -1,7 +1,7 @@
 # Table of contents
 
 * [斑马线用户指南](README.md)
-* [使用教程](document/README.md)
+* [使用教程与下载](document/README.md)
   * [Windows](document/win/README.md)
     * [BMXCloud For Win（荐）](document/win/bmxforwin.md)
     * [V2RayN（荐）](document/win/v2rayn.md)
