@@ -8,7 +8,7 @@
     * [SwitchyOmega浏览器插件](document/win/switchyomega.md)
     * [Clash For Win](document/win/clash.md)
     * [SS-Tap（游戏/全局）](document/win/sstap-you-xi-te-shu.md)
-  * [macOS](document/macos/README.md)
+  * [MacOS](document/macos/README.md)
     * [BMXCloud For Mac](document/macos/surge.md)
     * [ClashX](document/macos/clashx.md)
     * [V2RayX](document/macos/shadowsocksr.md)
