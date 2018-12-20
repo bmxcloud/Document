@@ -1,43 +1,68 @@
+---
+description: 我们对本客户端提供「优先」支持
+---
+
 # V2RayNG
 
-* `系统要求：Android 4.4 及以上`
-* `设备要求：Android Phone / Tablet`
+### 介绍
 
-![](../../.gitbook/assets/ssr-android-4.png)
+V2RayNG是一款适用于斑马线的的开源Android客户端，支持订阅功能。
 
-然后点击顶部的「ShadowsocksR ⬇」区域进入节点列表。
+### 下载安装
 
-![](../../.gitbook/assets/ssr-android-5.png)
+版本:0.6.2 \| 更新日期: 2018-12-14
 
-在接入点列表页面点击底部的「+」按钮，并选择「添加/升级 SSR 订阅」。
+[本地下载](https://bmxcloud.cc/dl.php?type=d&id=1) \| [官方下载](https://github.com/2dust/v2rayNG/releases/download/0.6.2/app-universal-release.apk) \| [PlayStore下载](https://play.google.com/store/apps/details?id=com.v2ray.ang)
 
-![](../../.gitbook/assets/ssr-android-6.png)
+### 使用
 
-默认有一个「FreeSSR-piblic」的无效连接信息，建议向右滑动将其去除。
+* 手机浏览器打开 [斑马线用户中心](https://bmxcloud.cc/clientarea.php?action=services) ，点击已订阅套餐，在套餐详情中点击 **通用订阅链** ，订阅信息会自动复制进剪贴板
 
-![](../../.gitbook/assets/ssr-android-7.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
-再次点击接入点列表页面底部的「+」按钮，选择「添加/升级 SSR 订阅」，在订阅列表中点击「添加订阅地址」。
+* 打开刚安装好的V2RayNG，点击**左上三横线** 小图标 ，在弹出的窗口中，选择订阅设置
 
-![](../../.gitbook/assets/ssr-android-8.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
-长按文本框空白区域，选择「粘贴」，将订阅地址粘贴到文本框中。点击「确定」
+* 进入订阅设置后，点击**右上+号**，在弹出窗口填入对应信息，保存
 
-![](../../.gitbook/assets/ssr-android-9.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
-等待几秒后（具体时间取决于您的网络环境），您将会看到「墙洞」的订阅信息，勾选「自动更新」，点击「确定并升级」即可导入节点信息并自动更新。
+* 保存后返回V2RayNG主界面，点击**右上三点**，选择更新订阅，成功后即可导入订阅套餐对应的所有节点
 
-![](../../.gitbook/assets/ssr-android-12.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
-{% hint style="info" %}
-客户端配置
-{% endhint %}
+![](../../.gitbook/assets/image%20%2828%29.png)
 
-导入接入点信息后，返回到主页面，然后下滑到「功能设置」功能区，打开「UDP 转发」和「IPv6 路由」，并将「路由」设置为「绕过局域网和中国大陆地址」。
+* 按需求选择节点后，点击右下角V字图标，第一次运行会跳出允许v2rayNG设置VPN连接的请求，确定后即可开启代理
 
-![](../../.gitbook/assets/ssr-android-15.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
-滑动页面到顶部，点击右上角的纸飞机图标连接，如果是首次连接，则系统会弹出如下的提示框，请点击「确定」。
+### 设置
 
-![](../../.gitbook/assets/ssr-android-14.png)
+为了更好的体验，我们需要对v2rayNG进行一些设置，点击**左上三横线**小图标，选择**设置**
+
+* 路由设置，建议选择**绕过局域网及大陆地址**，访问国内网站时，流量不经过v2rayNG，
+
+![](../../.gitbook/assets/image%20%2811%29.png)
+
+* 如果开启v2rayNG后，无法访问Google Play Store，那么需要在**自定义路由**里代理的网址或IP里填入services.googleapis.cn并保存
+
+![](../../.gitbook/assets/image%20%2815%29.png)
+
+### 分应用代理
+
+* 分应用代理设置能让v2rayNG更好的处理手机的流量
+* 分应用代理打开，绕行模式关闭，则为选中的应用的流量将使用代理，其他的则直连
+
+![&#x5982;&#x56FE;&#x6240;&#x793A;&#xFF0C;YouTbue&#x548C;Google&#x5C06;&#x901A;&#x8FC7;v2rayNG&#x4EE3;&#x7406;&#x8BBF;&#x95EE;&#x7F51;&#x7EDC;](../../.gitbook/assets/image%20%283%29.png)
+
+* 分应用代理打开，绕行模式打开，则为选中的应用的流量不使用代理绕行，未选中的APP将使用v2rayNG
+
+![&#x5982;&#x56FE;&#x6240;&#x793A;&#xFF0C;&#x8C46;&#x74E3;&#x548C;&#x8F6C;&#x8F6C;&#x4E0D;&#x4F1A;&#x901A;&#x8FC7;v2rayNG&#x8BBF;&#x95EE;&#x7F51;&#x7EDC;](../../.gitbook/assets/image%20%2820%29.png)
+
+  
+
+
+
 
