@@ -23,9 +23,8 @@
     * [Merlin](document/router/merlin.md)
     * [Padavan](document/router/padavan.md)
     * [Lede](document/router/lede.md)
-  * [订阅地址 & 托管地址](document/ding-yue-di-zhi-tuo-guan-di-zhi.md)
-* [通用](tong-yong/README.md)
-  * [个人端口 / 公共端口](tong-yong/gu-ding-duan-kou-duan-kou-fu-yong.md)
-  * [规则](tong-yong/gui-ze.md)
-* [Untitled](untitled.md)
+* [通用](bmx/README.md)
+  * [用户服务条款](bmx/tos.md)
+  * [常见问题](bmx/qa.md)
+  * [分流规则说明](bmx/filter.md)
 
