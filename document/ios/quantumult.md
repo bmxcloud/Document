@@ -1,4 +1,8 @@
-# Quantumult
+---
+description: 我们对本客户端提供「优先」支持
+---
+
+# Quantumult（荐）
 
 * `系统要求：iOS 9 及以上`
 * `设备要求：iPhone / iPad`
@@ -7,18 +11,73 @@
 此应用已在国区下架，请自行准备非国区 Apple ID 下载
 {% endhint %}
 
-1. 登入 dlercloud.com 用户中心
-2. 找到 ALL-IN-ONE 模块
-3. 点击 Menu 中自己喜爱的模式
-4. 点击「一键导入」按钮
+{% hint style="success" %}
+我们为绑定非国区支付方式困难的订阅客户准备了下载帐户，如需要请在网站内开服务单索取
+{% endhint %}
 
-![](../../.gitbook/assets/img_0905.jpg)
+### 介绍 <a id="jie-shao"></a>
 
-![](../../.gitbook/assets/img_0907.jpg)
+Quantumult是目前iOS上支持最好的客户端，支持订阅功能，但设置略复杂
 
-![](../../.gitbook/assets/img_0908.PNG)
+### 服务器订阅
 
-![](../../.gitbook/assets/img_0909.PNG)
+* 手机浏览器打开 [斑马线用户中心](https://bmxcloud.cc/clientarea.php?action=services) ，点击已订阅套餐，在套餐详情中点击**Quantumult 专用链**，订阅信息会自动复制进剪贴板
 
-![](../../.gitbook/assets/img_0910.PNG)
+![](../../.gitbook/assets/image%20%2813%29.png)
+
+* 打开Quantumult，**设置**选项卡，点击**订阅**
+
+![](../../.gitbook/assets/image%20%283%29.png)
+
+* 打开菜单里，点击**右上+号**，弹出菜单选择**服务器**
+
+![](../../.gitbook/assets/image%20%2868%29.png)
+
+* 打开的服务器信息窗口中，**链接**位置粘贴**Quantumult专用链**，并打开**更新检测**并**保存**。Quantumult会自动下载套餐对应的服务器节点信息
+
+![](../../.gitbook/assets/image%20%2817%29.png)
+
+* 点击Quantumult Logo图标，可以看到所有节点并自由切换，带有简易的延迟测试
+
+![](../../.gitbook/assets/image%20%2854%29.png)
+
+![](../../.gitbook/assets/image%20%2847%29.png)
+
+* 选中节点后，点击**首页**选项卡，打开**右上角开关**即可开启代理
+
+![](../../.gitbook/assets/image%20%284%29.png)
+
+* 首次使用系统会提示配置VPN，允许后需要使用指纹/Face ID/密码 确认
+
+![](../../.gitbook/assets/image%20%2822%29.png)
+
+![](../../.gitbook/assets/image%20%2827%29.png)
+
+### 可选配置 - 规则订阅
+
+* Quantumult内置了一个分流规则，大部分情况效果不错，但是还是会有规则匹配不正确的情况。用户可以选择自定义更为完善的规则。
+
+{% hint style="info" %}
+规则仅在**运行模式 - 自动分流**模式下生效
+{% endhint %}
+
+* 推荐规则：[lhie1规则](https://github.com/lhie1/Rules)。目前维护最为完善的规则，包含了分流策略，去广告，拦截隐私跟踪等功能
+* 订阅地址：
+  * 分流规则：[https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult.conf](https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult.conf)
+  * 阻止规则：[https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult\_URL.conf](https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult_URL.conf)
+* **设置**选项卡，点击**订阅**，**右上角+号**，和设置服务器订阅一样分别设置分流规则和链接阻止规则
+
+![](../../.gitbook/assets/image%20%2825%29.png)
+
+* 在两条订阅规则上分别向左滑，点击**替换**
+
+![](../../.gitbook/assets/image%20%2826%29.png)
+
+* 更新分流规则时，系统会提供选项自定义规则，根据提示选择后保存即可
+
+![](../../.gitbook/assets/image%20%288%29.png)
+
+ 
+
+
 

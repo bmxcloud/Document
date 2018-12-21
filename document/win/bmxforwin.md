@@ -28,7 +28,7 @@ BMXCloud For Win 是由斑马线团队为Windows用户推出的一键客户端�
 * 根据自己网络状况选择合适的节点，点击**全局**或者**PAC模式**，软件会自动配置好系统http代理设置
 * **系统日志**出现以下信息表示V2Ray内核启动成功
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 ### 设置
 
