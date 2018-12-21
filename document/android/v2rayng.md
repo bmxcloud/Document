@@ -57,7 +57,7 @@ V2RayNG是一款适用于斑马线的的开源Android客户端，支持订阅功
 
 ![&#x5982;&#x56FE;&#x6240;&#x793A;&#xFF0C;YouTbue&#x548C;Google&#x5C06;&#x901A;&#x8FC7;v2rayNG&#x4EE3;&#x7406;&#x8BBF;&#x95EE;&#x7F51;&#x7EDC;](../../.gitbook/assets/image%20%286%29.png)
 
-* 分应用代理打开，绕行模式打开，则为选中的应用的流量不使用代理绕行，未选中的APP将使用v2rayNG
+* 分应用代理打开，绕行模式打开，则为选中的应用的流量不使用代理，未选中的APP将使用v2rayNG
 
 ![&#x5982;&#x56FE;&#x6240;&#x793A;&#xFF0C;&#x8C46;&#x74E3;&#x548C;&#x8F6C;&#x8F6C;&#x4E0D;&#x4F1A;&#x901A;&#x8FC7;v2rayNG&#x8BBF;&#x95EE;&#x7F51;&#x7EDC;](../../.gitbook/assets/image%20%2844%29.png)
 
