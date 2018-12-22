@@ -20,11 +20,11 @@ SwitchyOmega是一款Chrome和Firefox 浏览器上的代理扩展程序，可以
 
 * 点击浏览器工具栏SwitchyOmega图标，选择**选项**
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2874%29.png)
 
 * 在打开的窗口选择**导入/导出**，从备份文件恢复
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 * 选中刚才下载的配置文件，确定。
 * 关闭SwitchyOmega配置窗口，重新点击浏览器工具栏SwitchyOmega图标，会发现配置已正确导入
@@ -37,19 +37,19 @@ SwitchyOmega是一款Chrome和Firefox 浏览器上的代理扩展程序，可以
 
 打开网站，并未激活自动规则走代理，但是出现2个资源未加载并打开速度非常缓慢
 
-![&#x56FE;1](../../.gitbook/assets/image%20%2850%29.png)
+![&#x56FE;1](../../.gitbook/assets/image%20%2856%29.png)
 
 这时候点击未加载位置，跳出界面将无法加载的域名选入代理
 
-![&#x56FE;2](../../.gitbook/assets/image%20%2849%29.png)
+![&#x56FE;2](../../.gitbook/assets/image%20%2855%29.png)
 
 同时由于网站打开缓慢，点击图1域名位置，将该域名也加入代理列表
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 这时候重新打开网站，发现加载速度飞快并且并无无法加载的资源了
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 
 

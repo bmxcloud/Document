@@ -1,6 +1,6 @@
 # 斑马线用户指南
 
-![](.gitbook/assets/image%20%2882%29.png)
+![](.gitbook/assets/image%20%2889%29.png)
 
 {% hint style="success" %}
 欢迎访问 斑马线的文档中心！

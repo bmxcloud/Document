@@ -2,7 +2,7 @@
 description: 我们对本客户端提供「优先」支持
 ---
 
-# BMXCloud For Win（荐）
+# BMXCloud （新手推荐）
 
 * `系统要求：Windows XP 及以上（64-bit）`
 
@@ -27,11 +27,11 @@ BMXCloud For Win 是由斑马线团队为Windows用户推出的一键客户端�
 * 打开软件后点**登录**，在跳出的登录框中填入网站的登录信息，您套餐的节点就会自动更新完成。
 * 根据自己网络状况选择合适的节点，点击**全局**或者**PAC模式**，软件会自动配置好系统http代理设置
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
 * **系统日志**出现以下信息表示V2Ray内核启动成功
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 ### 设置
 
@@ -39,5 +39,5 @@ BMXCloud For Win 是由斑马线团队为Windows用户推出的一键客户端�
 
 ### 全局模式与PAC模式
 
-PAC模式需要定期更新规则，并且规则列表臃肿不堪，事实上大量海外并未被干扰的网站，通过代理也能获得更佳的体验，因此推荐使用全局模式来启动HTTP与SOCKS代理，配合SwitchyOmega浏览器插件可以达到最优的浏览体验，SwitchyOmega使用见下面文章。
+PAC模式需要定期更新规则，并且规则列表臃肿不堪，事实上大量海外并未被干扰的网站，通过代理也能获得更佳的体验，因此推荐使用全局模式来启动HTTP与SOCKS代理，配合SwitchyOmega浏览器插件可以达到最优的浏览体验，SwitchyOmega使用见进阶教程。
 
