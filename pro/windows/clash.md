@@ -2,7 +2,7 @@
 description: 我们对本客户端暂不提供支持，订阅功能正在在开发支持中
 ---
 
-# Clash For Win
+# Clash For Win（开发中）
 
 * `系统要求：Windows XP 及以上（64-bit）`
 

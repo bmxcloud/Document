@@ -2,7 +2,7 @@
 description: 我们对本客户端暂不提供文档支持，订阅功能正在在开发支持中
 ---
 
-# ClashX
+# ClashX（开发中）
 
 * `系统要求：macOS 10.5 及以上`
 * `设备要求：MacBook / iMac / Mac Pro`

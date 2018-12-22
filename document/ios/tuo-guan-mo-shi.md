@@ -23,38 +23,38 @@ ShadowRocket俗称小火箭，是一款iOS上非常受欢迎的代理工具
 中国区有同名山寨软件，请认准开发者Guangming Li
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 
 ### 服务器订阅
 
 * 手机浏览器打开 [斑马线用户中心](https://bmxcloud.cc/clientarea.php?action=services) ，点击已订阅套餐，在套餐详情中点击 **通用订阅链** ，订阅信息会自动复制进剪贴板
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 * 打开Shadowrocket，点击**右上+号**，弹出窗口中点击**类型，**并将类型更改为**Subscribe**
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2830%29.png)
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 *  将**通用订阅链**粘贴至**URL位置**，点击**完成**即可更新订阅
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
 * 如更新地址失败，可在主界面主订阅上向左滑动，点击更新
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 * 更新订阅成功后，选择需要节点，主界面点击**开关**即可开启代理。
 * 首次使用系统会提示配置VPN，允许后需要使用指纹/Face ID/密码 确认
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 * 打开订阅自动更新：设置选项卡，服务器订阅，启用打开时更新。这样每次启动shadowrocket，都会自动从斑马线更新最新的节点信息，保持和服务器同步
 
@@ -70,13 +70,13 @@ Shadowrocket内置了一个分流规则，大部分情况效果不错，但是�
 * 订阅地址：[https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf](https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf)
 * 打开shadowrocket**配置**选项卡，点击**添加配置**，跳出窗口里粘贴上面的**订阅地址**后点击下载 
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 * 添加完成后，点击远程文件链接，弹出窗口点击**使用配置**
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 * shadowrocket会将规则下载到本地并自动启用
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 

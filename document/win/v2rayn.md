@@ -29,7 +29,9 @@ V2RayN 是一个适用于V2Ray-Core的开源视图化客户端，支持订阅。
 
 1.进入您的[产品中心](https://bmxcloud.cc/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**通用订阅链。**
 
-![](../../.gitbook/assets/chrome_o54aytrco5.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
+
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 2.打开V2RayN，点击**订阅**-&gt;**订阅设置，**在跳出的窗口里，**备注**填斑马线，**地址URL**位置粘贴刚才复制的订阅链，确定退出订阅设置。
 
@@ -45,8 +47,15 @@ V2RayN 是一个适用于V2Ray-Core的开源视图化客户端，支持订阅。
 
 点开主面板的参数设置
 
-* ：建议打开Mux多路复用
+![](../../.gitbook/assets/image%20%2886%29.png)
+
+* 建议打开Mux多路复用
+
+![](../../.gitbook/assets/image%20%2829%29.png)
+
 * Core路由设置：建议打开绕过大陆IP和大陆网址，以提升访问国内网站体验。
+
+![](../../.gitbook/assets/image%20%2879%29.png)
 
 ### 设置开启系统代理
 

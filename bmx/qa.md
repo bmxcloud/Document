@@ -1,12 +1,18 @@
 # 常见问题
 
-## Can I become who I want to be?
+## 可以看Netflix吗？
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+我们全线已解锁Netflix播放，无论您使用哪个服务器，都可以正常使用Netflix
 
-## Have you had a chance to answer the previous question?
+## 什么是中转服务器，什么时候要使用中转？
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+部分国内二级网络运营商，如长城宽带，广电等，甚至包括移动，国际出口优先级极差而且限速，这时候无论采用多优质的海外节点，都起不到太大的加速作用。中转服务器可以在国内优化国际出口，能显著提升出国访问速度。
 
+当您使用时发现所有直连节点表现都不佳时，可以考虑使用中转/专线来加速网络
 
+## 为什么要使用TLS证书？
+
+大部分提供同类服务的商家都不会考虑使用TLS证书，因为采用证书后会显著提高服务器的负担以及略微影响连接时的速度，会对运营成本造成很大开支
+
+但是TLS证书号称现代互联网基石，所有的银行以及互联网支付，甚至企业VPN，都采用了TLS证书保障用户数据即使被截获，也无法在数据失效前被破译。在无现金生活普及的年代，保障用户数据安全才是首要问题，因此我们决定全线采用TLS加密。
 
