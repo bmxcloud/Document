@@ -39,5 +39,5 @@ BMXCloud For Win 是由斑马线团队为Windows用户推出的一键客户端�
 
 ### 全局模式与PAC模式
 
-PAC模式需要定期更新规则，并且规则列表臃肿不堪，事实上大量海外并未被干扰的网站，通过代理也能获得更佳的体验，因此推荐使用全局模式来启动HTTP与SOCKS代理，配合SwitchyOmega浏览器插件可以达到最优的浏览体验，SwitchyOmega使用见进阶教程。
+PAC模式需要定期更新规则，并且规则列表臃肿不堪，事实上大量海外并未被干扰的网站，通过代理也能获得更佳的体验，因此推荐使用全局模式来启动HTTP与SOCKS代理，配合SwitchyOmega浏览器插件可以达到最优的浏览体验，[SwitchyOmega使用见进阶教程](https://doc.bmxcloud.cc/pro/windows/switchyomega)。
 

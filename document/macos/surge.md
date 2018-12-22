@@ -37,7 +37,7 @@ BMXCloud For Mac是由斑马线团队为Mac用户推出的一键客户端，您�
 
 ### 全局模式与PAC模式
 
-PAC模式需要定期更新规则，并且规则列表臃肿不堪，事实上大量海外并未被干扰的网站，通过代理也能获得更佳的体验，因此推荐使用全局模式来启动HTTP与SOCKS代理，配合SwitchyOmega浏览器插件可以达到最优的浏览体验，SwitchyOmega使用见进阶教程。
+PAC模式需要定期更新规则，并且规则列表臃肿不堪，事实上大量海外并未被干扰的网站，通过代理也能获得更佳的体验，因此推荐使用全局模式来启动HTTP与SOCKS代理，配合SwitchyOmega浏览器插件可以达到最优的浏览体验，[SwitchyOmega使用见进阶教程](https://doc.bmxcloud.cc/pro/windows/switchyomega)。
 
 {% hint style="warning" %}
 Chrome和Firefox支持SwithyOmega，但是Safari不支持扩展功能，因此Safari用户请使用默认的系统代理。
